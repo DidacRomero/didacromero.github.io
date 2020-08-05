@@ -16,10 +16,10 @@
 title: "Hello. I'm Dídac Romero."
 email: 'didacromerocamo@gmail.com'
 description: "I'm a video game programmer testing this theme to create a portfolio."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://didacromero.github.io/Portfolio/" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
+baseurl: "/Portfolio/" # the subpath of your site, e.g. /blog
+url: "https://didacromero.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: 'devlusive'
+github_username: 'didacromero'
 medium_username: 'blog.jamigibbs.com'
 
 # Build settings
