@@ -4,14 +4,14 @@ position: right
 title: '2018: Andro Dunos'
 date: 2018-03-12
 categories: posts
-tags: Arcade SideScroller PixelArt C++ SDL 
+tags: Arcade SideScroller PixelArt C++ SDL
 team: 4
 contribution_url: 'nAn'
 contribution:
  - Contribution Test 1
  - Contribution Test 2
  - Contribution Test 3
-featured_image: '/img/posts/LastResort.gif'
+featured_image: '/img/posts/androdun.jpg'
 project_link: 'https://ch0m5.github.io/Project_1/'
 button_icon: 'flask'
 button_text: 'Visit Project'
