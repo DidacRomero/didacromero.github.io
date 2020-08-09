@@ -11,7 +11,6 @@ contribution:
  - Contribution Test 1
  - Contribution Test 2
  - Contribution Test 3
-
 featured_image: '/img/posts/LastResort.gif'
 project_link: 'https://ch0m5.github.io/Project_1/'
 button_icon: 'flask'
