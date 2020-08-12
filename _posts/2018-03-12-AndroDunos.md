@@ -15,5 +15,5 @@ featured_image: '/img/posts/androdun.jpg'
 project_link: 'https://ch0m5.github.io/Project_1/'
 button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: 'This tribute to Andro Dunos was my first game of the degree. I really enjoyed this project since this is one of the first games I ever played'
+lead_text: 'This tribute to Andro Dunos was my first game of the degree. I really enjoyed this project since this is one of the first games I ever played.'
 ---
