@@ -15,7 +15,15 @@
   </div>
   {% endif %}
 
-  <p class="excerpt">{{ post.contribution }}</p>
+  <ul>
+    {% for snippet in post.contribution %}
+      <li>
+        <p>
+        {{ snippet }}
+        </p>
+      </li>
+    {% endfor %}
+    </ul>
 
   <!-- {% if post.categories != empty %}
   <div class="categories">
