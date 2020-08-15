@@ -5,7 +5,7 @@ title: '2019: GATE Engine (3D Game Engine)'
 date: 2019-03-12
 categories: posts
 tags: OpenGl C++ Lua Scripting 3D Engine Luabridge
-team: 2
+team_size: 2
 contribution_url: 'nAn'
 contribution:
  - 3D models loading and rendering

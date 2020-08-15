@@ -5,7 +5,7 @@ title: '2018: Andro Dunos'
 date: 2018-03-12
 categories: posts
 tags: Arcade SideScroller PixelArt C++ SDL
-team: 4
+team_size: 4
 contribution_url: 'nAn'
 contribution:
  - Contribution Test 1

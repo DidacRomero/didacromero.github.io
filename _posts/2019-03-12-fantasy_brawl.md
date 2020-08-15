@@ -5,7 +5,7 @@ title: '2019: Fantasy Brawl'
 date: 2019-03-12
 categories: posts
 tags: Multiplayer SplitScreen  BattleRoyale PixelArt C++ SDL
-team: 8
+team_size: 8
 contribution_url: 'nAn'
 contribution:
  - Technical Design Document (TDD)

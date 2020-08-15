@@ -15,7 +15,18 @@
   </div>
   {% endif %}
 
+  {% if post.team_size != empty %}
+  <p class="excerpt"> {{<b> Team Size: post.team_size </b>}}</p>
+
+    {% endif %}
+
+    
   <ul>
+    {% if snippet in post.contribution}
+    <p>
+      Personal Contribution:
+    </p>
+    {% endif %}
     {% for snippet in post.contribution %}
       <li>
         <p>
