@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: '2019: GATE Engine (3D Game Engine)'
-date: 2019-07-12
+date: 2019-08-12
 categories: posts
 tags: OpenGl C++ Lua Scripting 3D Engine Luabridge
 team_size: 2
