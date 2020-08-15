@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: '2019: Fantasy Brawl'
 date: 2019-03-12
 categories: posts
