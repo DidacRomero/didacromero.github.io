@@ -22,5 +22,5 @@ featured_image: '/img/posts/fantasy_brawl.gif'
 project_link: 'https://checkthedog.github.io/Fantasy-Brawl/'
 button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: 'In this super fun local multiplayer Battle Royale inspired by Final Fantasy Tactics I was a programmer.'
+lead_text: 'Fantasy Brawl is a split screen couch party Battle Royale game inspired by Final Fantasy Tactics.'
 ---
