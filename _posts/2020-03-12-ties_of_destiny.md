@@ -6,6 +6,7 @@ date: 2020-03-12
 categories: posts
 tags: Wwise OpenGl C++ Lua Game HacknSlash Scripting 3D Engine Luabridge
 team_size: 29
+roles: Programmer AudioLead
 contribution_url: 'nAn'
 contribution:
  - Scripting system

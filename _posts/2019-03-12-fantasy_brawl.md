@@ -6,6 +6,7 @@ date: 2019-03-12
 categories: posts
 tags: Multiplayer SplitScreen  BattleRoyale PixelArt C++ SDL
 team_size: 8
+roles: Programmer
 contribution_url: 'nAn'
 contribution:
  - Technical Design Document (TDD)
