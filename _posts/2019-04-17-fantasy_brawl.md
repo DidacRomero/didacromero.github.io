@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: '2019: Fantasy Brawl'
-date: 2019-03-12
+date: 2019-04-17
 categories: posts
 tags: Multiplayer SplitScreen  BattleRoyale PixelArt C++ SDL
 team_size: 8
