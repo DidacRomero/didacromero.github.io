@@ -13,6 +13,7 @@ contribution:
  - Contribution Test 2
  - Contribution Test 3
 featured_image: '/img/posts/androdun.jpg'
+featured_video: 'https://www.youtube.com/embed/1xiLvfEIpVs'
 project_link: 'https://ch0m5.github.io/Project_1/'
 button_icon: 'flask'
 button_text: 'Visit Project'

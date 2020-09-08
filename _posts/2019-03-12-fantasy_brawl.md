@@ -19,6 +19,7 @@ contribution:
  - Sprite re-escalation
 
 featured_image: '/img/posts/fantasy_brawl.gif'
+featured_video: 'https://www.youtube.com/embed/ogaoDkLE-fM'
 project_link: 'https://checkthedog.github.io/Fantasy-Brawl/'
 button_icon: 'flask'
 button_text: 'Visit Project'

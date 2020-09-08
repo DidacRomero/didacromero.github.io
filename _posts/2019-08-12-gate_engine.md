@@ -20,6 +20,7 @@ contribution:
  - Scripting hot realoading
 
 featured_image: '/img/posts/fantasy_brawl.gif'
+featured_video: 'https://www.youtube.com/embed/-h25pq0d9Vs'
 project_link: 'https://docdonkeys.github.io/GATE_Engine/'
 button_icon: 'flask'
 button_text: 'Visit Project'
