@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: '2019: Fog of War personal research'
-date: 2018-10-12
+date: 2019-5-12
 categories: posts
 tags: C++ 2D Isometric Tutorial 
 team_size: 1
