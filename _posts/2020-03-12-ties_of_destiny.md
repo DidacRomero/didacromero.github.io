@@ -20,7 +20,7 @@ contribution:
  - Selection and implementation of music
  - Audio system file manager tasks
 
-featured_image: '/img/posts/fantasy_brawl.gif'
+featured_image: '/img/posts/Witcher_Gif.gif'
 featured_video: 'https://www.youtube.com/embed/m5PS3PCTRs0'
 project_link: 'https://tiesofdestiny.com/'
 button_icon: 'flask'
