@@ -14,7 +14,7 @@ contribution:
  - Overhead Arrow
  - Logitech Steering wheel implementation
 
-featured_image: '/img/posts/fantasy_brawl.gif'
+featured_image: '/img/posts/Crazy_taxi_Tribute.gif'
 project_link: 'https://docdonkeys.github.io/Crazy-Taxi/'
 button_icon: 'flask'
 button_text: 'Visit Project'
