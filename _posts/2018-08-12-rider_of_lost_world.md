@@ -16,7 +16,7 @@ contribution:
  - Audio effects panning and attenuation in gameplay
  - GUI and entity systems developed with colleague
 
-featured_image: '/img/posts/fantasy_brawl.gif'
+featured_image: '/img/posts/Raider_of_the_lost_world.gif'
 featured_video: 'https://www.youtube.com/embed/BoTzxbeSZW8'
 project_link: 'https://adrianfr99.github.io/Raider-of-the-Lost-World/'
 button_icon: 'flask'
