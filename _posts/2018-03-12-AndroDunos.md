@@ -9,10 +9,10 @@ team_size: 4
 roles: Programmer
 contribution_url: 'nAn'
 contribution:
- - Bakground Movement & Camera
- - Controllers Implementation
- - Collison System
- - Respawn & Scoring system
+ - Bakground movement & camera
+ - Controllers implementation
+ - Collison system
+ - Respawn & scoring system
 featured_image: '/img/posts/Andro_Dunos.gif'
 featured_video: 'https://www.youtube.com/embed/1xiLvfEIpVs'
 project_link: 'https://ch0m5.github.io/Project_1/'

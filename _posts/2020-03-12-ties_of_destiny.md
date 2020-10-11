@@ -10,13 +10,13 @@ roles: Programmer, Audio Lead
 contribution_url: 'nAn'
 contribution:
  - Scripting system
- - Script Debugging
+ - Script debugging
  - Autocomplete
- - Engine Callbacks to scripting
+ - Engine callbacks to scripting
  - Script to script communication
  - Lua to C++ class register & translator
  - Gamepads support
- - Audio Team coordination
+ - Audio team coordination
  - Selection and implementation of music
  - Audio system file manager tasks
 

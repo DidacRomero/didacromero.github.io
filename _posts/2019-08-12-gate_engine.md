@@ -10,12 +10,12 @@ roles: Programmer
 contribution_url: 'nAn'
 contribution:
  - 3D models loading and rendering
- - Entity Component System (Gameobjects and components)
+ - Entity component system (Gameobjects and components)
  - Scene hierarchy
  - Own file format 
- - Scene Serialization
- - Resource Manager 
- - Lua Scripting system
+ - Scene serialization
+ - Resource manager 
+ - Lua scripting system
  - Script variables parsing, display and real time edit on component
  - Scripting hot realoading
 

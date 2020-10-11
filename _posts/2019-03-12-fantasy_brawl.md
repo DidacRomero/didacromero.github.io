@@ -9,13 +9,13 @@ team_size: 8
 roles: Programmer
 contribution_url: 'nAn'
 contribution:
- - Technical Design Document (TDD)
+ - Technical design document (TDD)
  - Gamepad input implementation
  - Gamepad haptic features (vibration)
  - Gamepad button customization and its scene
  - UI compatibilty with gamepads
- - Gameplay Storm system
- - Gameplay Map Item spawners
+ - Gameplay storm system
+ - Gameplay map item spawners
  - Sprite re-escalation
 
 featured_image: '/img/posts/fantasy_brawl.gif'

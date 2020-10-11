@@ -11,10 +11,10 @@ contribution_url: 'nAn'
 contribution:
  - Collision system
  - Pathfinding system
- - Brofiler Integration
+ - Brofiler integration
  - Music and sound effects
  - Audio effects panning and attenuation in gameplay
- - GUI and entity systems developed with colleague
+ - GUI and entity systems developed with my colleague
 
 featured_image: '/img/posts/Raider_of_the_lost_world.gif'
 featured_video: 'https://www.youtube.com/embed/BoTzxbeSZW8'
