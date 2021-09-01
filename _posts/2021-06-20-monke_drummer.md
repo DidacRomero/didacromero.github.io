@@ -14,7 +14,6 @@ contribution:
  - Sampling
  - Audio Implementation
 
-featured_image: 'nAn'
 featured_video: 'https://www.youtube.com/embed/YKHEC2fBsCE'
 project_link: 'https://github.com/DidacRomero/Monke-Drummer_Proto/releases'
 button_icon: 'flask'
