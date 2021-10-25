@@ -18,5 +18,5 @@ featured_video: 'https://www.youtube.com/embed/3RsG3ES6osA'
 project_link: 'https://github.com/DidacRomero/Navigation-Mesh-Generator'
 button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: 'Monke Drummer is a reverse rhythm game in which you control the music as you jam along the way! This is a project I made because I was curious about FMOD and MIDI input.'
+lead_text: 'This is the prototype that I developed for my final year project in which I made a small modular tool that was capable of generating a mesh from a Unity 2D grid map. The goal of this project is to provide a baseline for other programmers to experiment with different partitioning algorithms and to use adjacency graphs to code whatever path finding approach suits their needs.'
 ---
