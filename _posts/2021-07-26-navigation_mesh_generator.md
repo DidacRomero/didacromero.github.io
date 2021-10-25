@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Unity Navigation Mesh Generator'
-date: 2020-03-12
+date: 2020-01-12
 categories: posts
 tags: Unity AI Triangulation Mesh Decomposition 2D  
 team_size: 1
