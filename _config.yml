@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Dídac Romero."
 email: 'didacromerocamo@gmail.com'
-description: "Since I was young I loved playing games, sports and music. I'm now pursuing a career as a video game programmer and I'm currently studying the Video game Design and Development university degree from UPC (Universitat Politècnica de Catalunya), which is fully taught in English.
+description: "Since I was young I loved playing games, sports and music. I'm now pursuing a career as a video game programmer and I recently graduated from UPC (Universitat Politècnica de Catalunya) with a Bachelor's degree in Video game Design and Development. The degree was taught entirely in English.
 
 Thank you for checking out my projects!"
 baseurl: "" # the subpath of your site, e.g. /blog
