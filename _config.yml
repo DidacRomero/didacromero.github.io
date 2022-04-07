@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Dídac Romero."
-email: 'didacromerocamo@gmail.com'
+email: 'devlusive@gmail.com'
 description: "Since I was young I loved playing games, sports and music. I'm now pursuing a career as a video game programmer and I recently graduated from UPC (Universitat Politècnica de Catalunya) with a Bachelor's degree in Video game Design and Development. The degree was taught entirely in English.
 
-Thank you for checking out my projects!"
+Thank you for checking out my projects!" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://didacromero.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_url: 'https://www.linkedin.com/in/didac-romero/'
