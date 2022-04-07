@@ -21,6 +21,7 @@ Thank you for checking out my projects!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://didacromero.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_url: 'https://www.linkedin.com/in/didac-romero/'
+resume_url: 'https://didacromero.github.io/'
 github_username: 'didacromero'
 twitter_username: 'devlusive'
 
